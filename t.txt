@@ -4,10 +4,11 @@ Circle-CI:
 Travis-CI:
   Execution time in seconds: 0.0004901885986328125
 
-
-Now if you know the meaning of these two results, please tell me :D
+Scientific notation converted to decimal
 GitHub Workflow:
   Execution time in seconds: 4.6253204345703125e-05
+                             0.000046253204345703125
 
 Jenkins:
   Execution time in seconds: 5.7697296142578125e-05
+                             0.000057697296142578125
