@@ -6,9 +6,10 @@ Travis-CI:
 
 Scientific notation converted to decimal
 GitHub Workflow:
-  Execution time in seconds: 4.6253204345703125e-05
-                             0.000046253204345703125
+  Execution time in seconds: 0.000046253204345703125
+                             (4.6253204345703125e-05)
+
 
 Jenkins:
-  Execution time in seconds: 5.7697296142578125e-05
-                             0.000057697296142578125
+  Execution time in seconds: 0.000057697296142578125
+                             (5.7697296142578125e-05)
